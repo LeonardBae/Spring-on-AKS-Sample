@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: springjhacr.azurecr.io/springjhapp
+  repository: springjhacr.azurecr.io/leonardbae/springtest
   pullPolicy: IfNotPresent
 
 imagePullSecrets: []
