@@ -7,7 +7,7 @@ replicaCount: 1
 image:
   repository: springjhacr.azurecr.io/leonardbae/springtest
   pullPolicy: IfNotPresent
-  tag: ""
+  tag: "latest"
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
